@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Moonjoo</string>
+
+    <string name="switch_headset_title">이어폰 인식 노래 재생시키기</string>
+</resources>
